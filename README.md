@@ -1,5 +1,5 @@
 # CTFsForensics
-These are beginner challenges for Digital Forensics.
+These are beginner challenges for Digital Forensics made for the Past CTFs for NaSCon '25 event.
 The challenge files or link to the challenge file will be in dist directory for each challenge.
 Enjoy learning Forensics!!!!
 
